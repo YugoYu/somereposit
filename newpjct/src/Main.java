@@ -4,5 +4,5 @@ public class Main {
     public static void main(String[] args) {
         String grnt = String.join(",","Mrat ");
     }
-        String grnt = String.join(",","Mrat ","Shakur ","Shakir ");
+        String grnt = String.join(",","Mrat ","Shakir ");
     }
